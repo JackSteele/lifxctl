@@ -1,0 +1,1 @@
+Empty this file out and put your LIFX cloud token in here.
